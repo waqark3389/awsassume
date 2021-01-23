@@ -1,4 +1,4 @@
-A tool for running commands with temporary AWS credentials. awsassume makes working with the AWS AssumeRole API easier and more convenient.
+iA tool for running commands with temporary AWS credentials. awsassume makes working with the AWS AssumeRole API easier and more convenient.
 
 # Features
 
